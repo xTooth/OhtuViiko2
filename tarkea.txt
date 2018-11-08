@@ -3,3 +3,4 @@ Okei! Eli tässä ois nysitten tärkeää teksitiä roppakaupalla jotta tiedosto
 teksitiä kurssimateriaalista ett�ä saan täytettä aikaiseksi: "The core idea behind the Feature Branch Workflow is that all feature development should take place in a dedicated branch instead 
 of the master branch. This encapsulation makes it easy for multiple developers to work on a particular feature without disturbing the main codebase. It also means the master branch will never 
 contain broken code, which is a huge advantage for continuous integration environments." - korjaan sisältö tuli tehtävänanto sivulta.
+lisaa sanoja koska joo.
