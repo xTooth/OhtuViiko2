@@ -1,3 +1,4 @@
+ja listataan alkuunkin tekstia.
 Okei! Eli tässä ois nysitten tärkeää teksitiä roppakaupalla jotta tiedosto ei vaan vahingossakaan olisi tyhä kun lähdemme pelleilemään versionhallinnan kanssa. Lainaan seuraavaks 
 teksitiä kurssimateriaalista ett�ä saan täytettä aikaiseksi: "The core idea behind the Feature Branch Workflow is that all feature development should take place in a dedicated branch instead 
 of the master branch. This encapsulation makes it easy for multiple developers to work on a particular feature without disturbing the main codebase. It also means the master branch will never 
