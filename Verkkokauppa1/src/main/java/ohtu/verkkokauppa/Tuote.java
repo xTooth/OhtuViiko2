@@ -1,11 +1,14 @@
 
 package ohtu.verkkokauppa;
 
+
+
+
 public class Tuote {
     private int id;
     private String nimi;
     private int hinta;
-
+    
     public Tuote(int id, String nimi, int hinta) {
         this.id = id;
         this.nimi = nimi;
